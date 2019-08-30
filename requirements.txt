@@ -1,3 +1,5 @@
+https://github.com/thiagopena/geraldo/archive/master.zip
+https://github.com/thiagopena/PySIGNFe/archive/master.zip
 asn1crypto==0.24.0
 certifi==2019.6.16
 cffi==1.12.3
@@ -7,14 +9,12 @@ dj-database-url==0.5.0
 Django==2.2.4
 eight==0.4.2
 future==0.16.0
-Geraldo==0.4.16
 gunicorn==19.9.0
 lxml==4.2.6
 Pillow==6.1.0
 psycopg2==2.8.3
 pycparser==2.19
 pyOpenSSL==17.5.0
-PySIGNFe==0.1.0
 python-decouple==3.1
 pytz==2018.3
 reportlab==3.4.0
